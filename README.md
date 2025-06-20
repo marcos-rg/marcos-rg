@@ -14,7 +14,7 @@ Python, LLMs, Agent orchestrators, Databases, Graphs, Browser, Research, Pen and
 
 * Meta-Agent: A LangGraph agent designed to jailbreak and analyze other LangGraph systems.
 * Automated reporting system for software performance tests
-* Agent to extract data from unstructured documents
+* LLM workflow to extract data from unstructured documents
 * Chatbot system connected to RAG
 
 
