@@ -12,7 +12,7 @@ Python, LLMs, Agent orchestrators, Databases, Graphs, Browser, Research, Pen and
 
 ### <**projects**>
 
-* Meta-Agent: A LangGraph agent designed to jailbreak and analyze other LangGraph systems.
+* [Metatesters](https://github.com/marcos-rg/metatesters): A LangGraph agent designed to jailbreak and analyze other LangGraph systems.
 * Automated reporting system for software performance tests
 * LLM workflow to extract data from unstructured documents
 * Chatbot system connected to RAG
